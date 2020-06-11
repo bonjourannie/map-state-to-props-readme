@@ -20,7 +20,7 @@ class App extends Component {
         <p>{this.props.items.length}</p>
       </div>
     );
-  }
+  } 
 };
 
 const mapStatetoProps = (state) => {
